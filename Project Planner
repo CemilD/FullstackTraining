@@ -1,0 +1,15 @@
+Hier ist ein tabellarischer Plan mit Lernabschnitten, Aufgaben und Projektvorschlägen:
+
+| **Abschnitt**       | **Dauer**      | **Aufgaben**                                                                 | **Projektvorschlag**                                |
+|---------------------|----------------|------------------------------------------------------------------------------|----------------------------------------------------|
+| **JavaScript**       | 2-3 Monate     | - Grundlagen lernen (Syntax, Arrays, Objekte, Funktionen)                    | - Baue eine To-Do-Liste-Web-App mit Vanilla JS     |
+|                     |                | - Fortgeschritten: Asynchronität (Promises, async/await)                     | - Wetter-App mit API-Anbindung                     |
+| **Angular**          | 2-3 Monate     | - Komponenten, Module, Routing, Services                                     | - Erstelle eine Buchungsplattform (z.B. für Meetings) |
+|                     |                | - TypeScript-Integration                                                     |                                                    |
+| **Node.js**          | 2-3 Monate     | - REST-API mit Express.js, Authentifizierung (z.B. JWT)                      | - API erstellen, die mit einer Angular-App kommuniziert |
+|                     |                | - Datenbankanbindung                                                         |                                                    |
+| **Azure SQL**        | 1-2 Monate     | - Datenbanken einrichten, SQL-Abfragen, Cloud-Anbindung                      | - Verbinde Node.js mit einer Azure SQL-Datenbank   |
+| **PowerShell**       | 1-2 Monate     | - Einführung in Skripte, Automatisierung, Verwaltung von Cloud-Ressourcen    | - Automatisiere das Deployment eines Webservers in Azure |
+| **Projektphase**     | Fortlaufend    | - Integration aller Technologien: Full-Stack-App mit Angular, Node.js, Azure SQL, PowerShell | - Entwickle eine IoT-Überwachungsplattform mit Echtzeit-Daten |
+
+Dieser Plan hilft dir, strukturiert durch die einzelnen Technologien zu gehen, während du in jedem Abschnitt praktische Projekte umsetzt, die dich auf deine IoT-Ziele vorbereiten.
